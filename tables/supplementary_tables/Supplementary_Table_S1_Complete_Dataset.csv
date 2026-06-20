@@ -1,0 +1,12 @@
+Category,Subcategory,Count,Percentage,Mean_oe_ratio,Mean_conservation,Notes
+All_Motifs,Total,1280.0,100.0,0.016507,0.677,All 4-mer STR motifs analyzed
+Epigenetic_Forbidden,CG-containing,291.0,22.73,0.007089,,"Extreme depletion, associated with Xi"
+Epigenetic_Forbidden,Non-CG,989.0,77.27,0.018423,0.681,Moderate depletion
+Evolutionary_Forbidden,Total,11.0,0.86,,0.768,Identified through conservation analysis
+Evolutionary_Forbidden,CG-containing,0.0,0.0,,,Complete absence of CG motifs
+Evolutionary_Forbidden,Non-CG,11.0,100.0,,0.768,All are short motifs (2-4 bp)
+Top_Depleted,CGATA,1.0,0.08,3.8e-05,,"Most depleted: 26,288-fold reduction"
+Top_Depleted,CGAGT,1.0,0.08,9.4e-05,,"10,615-fold reduction"
+Top_Depleted,CGTCA,1.0,0.08,0.000142,,"7,041-fold reduction"
+Statistical_Tests,MWU_CG_vs_nonCG,,,,,p < 0.001 (CG more depleted)
+Statistical_Tests,Correlation_oe_conservation,,,,,r = 0.084 (weak positive)

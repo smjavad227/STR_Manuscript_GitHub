@@ -1,0 +1,157 @@
+Gene,Cell_Type,Percent_Expressed,Scaled_Expression,Group
+GTPBP6,Neurons,0.0,0.0,target
+PLCXD1,Neurons,0.0,0.0,target
+PPP2R3B,Neurons,0.0,0.0,target
+CRLF2,Neurons,0.0,0.0,target
+SHOX,Neurons,0.0,0.0,target
+IL3RA,Neurons,1.0,1.0,target
+DDX53,Neurons,0.0,0.0,target
+ASMT,Neurons,0.0,0.0,target
+PQBP1,Neurons,1.0,0.5,target
+PRKX-AS1,Neurons,0.0,0.0,target
+GTPBP6,Keratinocytes,0.0,0.0,target
+PLCXD1,Keratinocytes,0.0,0.0,target
+PPP2R3B,Keratinocytes,1.0,0.5,target
+CRLF2,Keratinocytes,1.0,0.5,target
+SHOX,Keratinocytes,1.0,0.5,target
+IL3RA,Keratinocytes,1.0,0.5,target
+P2RY8,Keratinocytes,1.0,0.5,target
+ASMT,Keratinocytes,1.0,0.5,target
+PQBP1,Keratinocytes,0.0,0.0,target
+PRKX-AS1,Keratinocytes,1.0,1.0,target
+GTPBP6,Pancreatic Beta Cells,1.0,1.0,target
+PLCXD1,Pancreatic Beta Cells,1.0,1.0,target
+PPP2R3B,Pancreatic Beta Cells,1.0,1.0,target
+TIMM17B,Pancreatic Beta Cells,1.0,1.0,target
+SLC25A6,Pancreatic Beta Cells,1.0,1.0,target
+IL3RA,Pancreatic Beta Cells,1.0,1.0,target
+P2RY8,Pancreatic Beta Cells,1.0,1.0,target
+SAT1,Pancreatic Beta Cells,1.0,1.0,target
+PQBP1,Pancreatic Beta Cells,1.0,1.0,target
+SH3KBP1,Pancreatic Beta Cells,1.0,0.5,target
+GTPBP6,Hepatocytes,1.0,0.5,target
+PLCXD1,Hepatocytes,1.0,0.5,target
+PPP2R3B,Hepatocytes,1.0,0.5,target
+CRLF2,Hepatocytes,1.0,0.5,target
+SHOX,Hepatocytes,0.0,0.0,target
+IL3RA,Hepatocytes,0.0,0.0,target
+DDX53,Hepatocytes,1.0,0.5,target
+ASMT,Hepatocytes,1.0,0.5,target
+PQBP1,Hepatocytes,1.0,1.0,target
+PRKX-AS1,Hepatocytes,0.0,0.0,target
+GTPBP6,T Cells,0.0,0.0,target
+PLCXD1,T Cells,0.0,0.0,target
+PPP2R3B,T Cells,0.0,0.0,target
+CRLF2,T Cells,0.0,0.0,target
+SHOX,T Cells,1.0,0.5,target
+IL3RA,T Cells,1.0,0.5,target
+DDX53,T Cells,0.0,0.0,target
+ASMT,T Cells,0.0,0.0,target
+PQBP1,T Cells,0.0,0.0,target
+PRKX-AS1,T Cells,0.0,0.0,target
+GTPBP6,Fetal Cardiomyocytes,1.0,0.5,target
+PLCXD1,Fetal Cardiomyocytes,1.0,1.0,target
+PPP2R3B,Fetal Cardiomyocytes,1.0,0.5,target
+TIMM17B,Fetal Cardiomyocytes,1.0,0.5,target
+SLC25A6,Fetal Cardiomyocytes,1.0,1.0,target
+IL3RA,Fetal Cardiomyocytes,0.0,0.0,target
+SAT1,Fetal Cardiomyocytes,1.0,0.5,target
+SH3KBP1,Fetal Cardiomyocytes,1.0,0.5,target
+PQBP1,Fetal Cardiomyocytes,1.0,0.5,target
+CDKL5,Fetal Cardiomyocytes,1.0,0.5,target
+CD99,Neurons,0.53,0.24,control
+DHRSX,Neurons,1.91,0.05,control
+PRKX,Neurons,2.56,0.73,control
+ARSD,Neurons,0.4,0.81,control
+CSF2RA,Neurons,0.18,0.7,control
+NLGN4X,Neurons,24.05,0.4,control
+MAGT1,Neurons,1.23,0.09,control
+GPR143,Neurons,0.18,0.33,control
+ASMTL,Neurons,0.49,0.11,control
+ZBED1,Neurons,0.32,0.06,control
+KDM6A,Neurons,7.05,0.33,control
+USP9X,Neurons,6.57,0.32,control
+DDX3X,Neurons,3.62,0.28,control
+OTC,Neurons,0.01,0.53,control
+ATRX,Neurons,33.51,0.25,control
+HDAC6,Neurons,0.68,0.0,control
+CD99,Keratinocytes,13.17,0.16,control
+DHRSX,Keratinocytes,0.4,0.81,control
+PRKX,Keratinocytes,0.7,0.34,control
+ARSD,Keratinocytes,0.12,0.17,control
+CSF2RA,Keratinocytes,0.02,0.69,control
+NLGN4X,Keratinocytes,0.02,0.88,control
+MAGT1,Keratinocytes,0.89,0.19,control
+GPR143,Keratinocytes,0.04,0.22,control
+ASMTL,Keratinocytes,0.4,0.17,control
+ZBED1,Keratinocytes,0.3,0.0,control
+KDM6A,Keratinocytes,1.23,0.54,control
+USP9X,Keratinocytes,1.47,0.32,control
+DDX3X,Keratinocytes,17.5,0.25,control
+OTC,Keratinocytes,0.01,0.13,control
+ATRX,Keratinocytes,8.97,0.17,control
+HDAC6,Keratinocytes,0.27,0.41,control
+CD99,Pancreatic Beta Cells,13.77,1.0,control
+DHRSX,Pancreatic Beta Cells,2.43,0.67,control
+PRKX,Pancreatic Beta Cells,1.21,0.46,control
+ARSD,Pancreatic Beta Cells,0.81,0.2,control
+CSF2RA,Pancreatic Beta Cells,1.62,0.88,control
+MAGT1,Pancreatic Beta Cells,4.05,0.43,control
+PNPLA4,Pancreatic Beta Cells,2.43,0.69,control
+ASMTL,Pancreatic Beta Cells,3.24,0.51,control
+ZBED1,Pancreatic Beta Cells,0.4,0.67,control
+KDM6A,Pancreatic Beta Cells,5.67,0.02,control
+USP9X,Pancreatic Beta Cells,1.62,0.12,control
+DDX3X,Pancreatic Beta Cells,11.74,0.76,control
+MAGED1,Pancreatic Beta Cells,5.26,0.21,control
+ATRX,Pancreatic Beta Cells,10.93,0.07,control
+HDAC6,Pancreatic Beta Cells,2.02,0.93,control
+MAFB,Pancreatic Beta Cells,0.4,1.0,control
+CD99,Hepatocytes,11.13,0.25,control
+DHRSX,Hepatocytes,12.2,0.28,control
+PRKX,Hepatocytes,0.34,0.41,control
+ARSD,Hepatocytes,3.56,0.21,control
+CSF2RA,Hepatocytes,0.08,0.28,control
+NLGN4X,Hepatocytes,0.14,0.47,control
+MAGT1,Hepatocytes,4.76,0.09,control
+GPR143,Hepatocytes,0.05,0.22,control
+ASMTL,Hepatocytes,1.26,0.19,control
+ZBED1,Hepatocytes,1.51,0.26,control
+KDM6A,Hepatocytes,16.71,0.3,control
+USP9X,Hepatocytes,19.1,0.37,control
+DDX3X,Hepatocytes,9.26,0.38,control
+OTC,Hepatocytes,2.62,0.35,control
+ATRX,Hepatocytes,14.24,0.25,control
+HDAC6,Hepatocytes,6.39,0.52,control
+CD99,T Cells,36.39,0.86,control
+DHRSX,T Cells,1.58,0.33,control
+PRKX,T Cells,4.69,0.28,control
+ARSD,T Cells,0.13,0.06,control
+CSF2RA,T Cells,0.06,0.16,control
+NLGN4X,T Cells,0.03,0.11,control
+MAGT1,T Cells,2.51,0.11,control
+GPR143,T Cells,0.01,0.1,control
+ASMTL,T Cells,1.56,0.05,control
+ZBED1,T Cells,1.19,0.0,control
+KDM6A,T Cells,5.17,1.0,control
+USP9X,T Cells,5.05,0.52,control
+DDX3X,T Cells,24.19,0.42,control
+OTC,T Cells,0.0,0.1,control
+ATRX,T Cells,24.06,0.55,control
+HDAC6,T Cells,0.66,0.02,control
+CD99,Fetal Cardiomyocytes,23.28,0.46,control
+DHRSX,Fetal Cardiomyocytes,1.59,0.24,control
+PRKX,Fetal Cardiomyocytes,0.25,0.0,control
+ARSD,Fetal Cardiomyocytes,1.25,0.49,control
+CSF2RA,Fetal Cardiomyocytes,0.08,1.0,control
+NLGN4X,Fetal Cardiomyocytes,0.08,0.55,control
+MAGT1,Fetal Cardiomyocytes,5.68,0.5,control
+FGF16,Fetal Cardiomyocytes,0.08,0.12,control
+ASMTL,Fetal Cardiomyocytes,1.26,0.52,control
+ZBED1,Fetal Cardiomyocytes,0.59,0.46,control
+KDM6A,Fetal Cardiomyocytes,2.01,0.33,control
+USP9X,Fetal Cardiomyocytes,2.18,0.37,control
+DDX3X,Fetal Cardiomyocytes,5.36,0.46,control
+MAGED1,Fetal Cardiomyocytes,3.18,0.36,control
+ATRX,Fetal Cardiomyocytes,8.88,0.47,control
+HDAC6,Fetal Cardiomyocytes,0.34,0.42,control

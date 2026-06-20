@@ -1,0 +1,25 @@
+
+SEQUENCE EXTRACTION REPORT
+==========================
+
+SOURCE FILES:
+- Main STR file: /home/javad/Projects/Genome Wide Laws/XCI_STR_Project/data/processed/filtered_strs/strs_filtered.tsv (290,086 STRs)
+- Xa positions: /home/javad/Projects/Genome Wide Laws/XCI_STR_Project/data/processed/xa_xi_separation/Xa_STRs.tsv (115,790 positions)
+- Xi positions: /home/javad/Projects/Genome Wide Laws/XCI_STR_Project/data/processed/xa_xi_separation/Xi_STRs.tsv (174,296 positions)
+
+RESULTS:
+- Xa STRs with sequences: 118,752
+- Xi STRs with sequences: 178,728
+- Missing sequences in Xa: 0
+- Missing sequences in Xi: 0
+
+SEQUENCE STATISTICS (for sequences found):
+- Total Xa sequences: 118,752
+- Total Xi sequences: 178,728
+
+OUTPUT FILES:
+- Xa sequences: /home/javad/Projects/Genome Wide Laws/XCI_STR_Project/data/processed/xa_xi_separation_with_sequences/Xa_STRs_with_sequences.tsv
+- Xi sequences: /home/javad/Projects/Genome Wide Laws/XCI_STR_Project/data/processed/xa_xi_separation_with_sequences/Xi_STRs_with_sequences.tsv
+
+NEXT STEP:
+Run Phase 2 analysis using these new files with actual sequences.

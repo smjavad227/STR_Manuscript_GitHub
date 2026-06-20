@@ -1,0 +1,21 @@
+2026-06-20 22:08:31,903 | INFO | Running scripts/str_detection/run_trf_scan.py
+2026-06-20 22:08:32,065 | INFO | RUNNING STR DETECTION
+STR DETECTION DONE
+
+2026-06-20 22:08:32,066 | INFO | Running scripts/evolutionary_analysis/motif_conservation.py
+2026-06-20 22:08:32,610 | INFO | RUNNING EVOLUTIONARY ANALYSIS
+EVOLUTIONARY ANALYSIS DONE
+
+2026-06-20 22:08:32,610 | INFO | Running scripts/expression_analysis/cellxgene_analysis.py
+2026-06-20 22:08:33,214 | INFO | RUNNING EXPRESSION ANALYSIS
+EXPRESSION ANALYSIS DONE
+
+2026-06-20 22:08:33,214 | INFO | Running scripts/figures/build_all_figures.py
+2026-06-20 22:08:37,722 | INFO | BUILDING FIGURES
+FIGURES DONE
+
+2026-06-20 22:08:37,723 | INFO | Running scripts/statistics/build_tables.py
+2026-06-20 22:08:39,260 | INFO | BUILDING TABLES
+TABLES DONE
+
+2026-06-20 22:08:39,261 | INFO | Pipeline completed

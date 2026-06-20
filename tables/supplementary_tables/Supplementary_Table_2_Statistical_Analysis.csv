@@ -1,0 +1,7 @@
+Cell_Type,Target_Genes_N,Target_Mean_Expression,Target_SD,Control_Genes_N,Control_Mean_Expression,Control_SD,Fold_Change,Difference,T_Statistic,P_Value,Significant_p<0.05,Significant_p<0.01
+Neurons,10,0.15,0.337,16,0.327,0.252,0.459,-0.177,-1.527,1.3972e-01,False,False
+Keratinocytes,10,0.4,0.316,16,0.341,0.259,1.174,0.059,0.523,6.0582e-01,False,False
+Pancreatic Beta Cells,10,0.95,0.158,16,0.539,0.337,1.763,0.411,3.596,1.4537e-03,True,True
+Hepatocytes,10,0.4,0.316,16,0.302,0.11,1.325,0.098,1.147,2.6276e-01,False,False
+T Cells,10,0.1,0.211,16,0.292,0.304,0.343,-0.192,-1.743,9.4105e-02,False,False
+Fetal Cardiomyocytes,10,0.55,0.284,16,0.422,0.215,1.304,0.128,1.307,2.0368e-01,False,False

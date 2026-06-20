@@ -1,0 +1,18 @@
+project_root: D:/My_Projects_Restored/home/javad/projects/Genome_Wide_Laws_Consolidated/STR_Manuscript_GitHub
+
+data:
+  raw: data/raw
+  processed: data/processed
+
+output:
+  figures: outputs/figures
+  tables: outputs/tables
+  results: results
+
+analysis:
+  chromosomes: [1, 8, 19, 21, X]
+  motif_lengths: [4, 5]
+
+runtime:
+  random_seed: 42
+  n_jobs: 8

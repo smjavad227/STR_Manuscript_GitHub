@@ -1,0 +1,21 @@
+2026-06-20 22:00:25,084 | INFO | Running scripts/str_detection/run_trf_scan.py
+2026-06-20 22:00:25,354 | INFO | RUNNING STR DETECTION
+STR DETECTION DONE
+
+2026-06-20 22:00:25,354 | INFO | Running scripts/evolutionary_analysis/motif_conservation.py
+2026-06-20 22:00:25,970 | INFO | RUNNING EVOLUTIONARY ANALYSIS
+EVOLUTIONARY ANALYSIS DONE
+
+2026-06-20 22:00:25,971 | INFO | Running scripts/expression_analysis/cellxgene_analysis.py
+2026-06-20 22:00:26,450 | INFO | RUNNING EXPRESSION ANALYSIS
+EXPRESSION ANALYSIS DONE
+
+2026-06-20 22:00:26,450 | INFO | Running scripts/figures/build_all_figures.py
+2026-06-20 22:00:26,572 | INFO | 
+2026-06-20 22:00:26,573 | ERROR | python: can't open file 'D:\\My_Projects_Restored\\home\\javad\\projects\\Genome_Wide_Laws_Consolidated\\STR_Manuscript_GitHub\\scripts\\figures\\build_all_figures.py': [Errno 2] No such file or directory
+
+2026-06-20 22:00:26,573 | INFO | Running scripts/statistics/build_tables.py
+2026-06-20 22:00:26,703 | INFO | 
+2026-06-20 22:00:26,703 | ERROR | python: can't open file 'D:\\My_Projects_Restored\\home\\javad\\projects\\Genome_Wide_Laws_Consolidated\\STR_Manuscript_GitHub\\scripts\\statistics\\build_tables.py': [Errno 2] No such file or directory
+
+2026-06-20 22:00:26,704 | INFO | Pipeline completed
